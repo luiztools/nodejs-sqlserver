@@ -1,0 +1,16 @@
+{
+  "name": "nodesqlserver",
+  "version": "1.0.0",
+  "description": "tutorial de node com sql server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "LuizTools",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mssql": "^11.0.1"
+  }
+}
