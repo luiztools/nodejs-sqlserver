@@ -13,7 +13,7 @@ A simples Node.js + MS SQL Server example.
 
 ## More
 
-Tutorial completo em https://www.luiztools.com.br/post/tutorial-node-js-com-ms-sql-server/
+Tutorial completo (inclui vídeo) em https://www.luiztools.com.br/post/tutorial-node-js-com-ms-sql-server/
 
 Follow me on social networks: https://about.me/luiztools
 
